@@ -2,7 +2,7 @@
 
 Fast learner engineer ready to deliver end-to-end technology projects. I develop mainly robotics applications in ROS1(2) and code mostly in C++, Python, MATLAB & Bash/Shell. My multidisciplinary educational background provided me with the software engineering foundation that allowed me to continue on the endless self-taught path. Currently learning Rust, while sharpening my knowledge in Design Patterns, Data Structures & Algorithms design. [Learn more](https://linktr.ee/imstevenpmwork)
 
-| <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imstevenpmwork&count_private=true&show_icons=true&theme=discord_old_blurple&include_all_commits=true&hide=contribs" /></a> | <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imstevenpmwork&layout=compact&theme=discord_old_blurple&langs_count=10" /></a> |
+| <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imstevenpmwork&count_private=true&show_icons=true&theme=discord_old_blurple&include_all_commits=true&hide=contribs" /></a> | <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imstevenpmwork&layout=compact&theme=discord_old_blurple&langs_count=6" /></a> |
 | ------------- | ------------- |
 
 ### Pinned Repositories
