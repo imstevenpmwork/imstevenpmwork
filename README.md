@@ -6,9 +6,9 @@ Rust for low-level systems programming 🦀
 
 Python for artificial intelligence models 🐍
 
-Learn more: https://linktr.ee/imstevenpmwork [Learn more](https://linktr.ee/imstevenpmwork)
+Learn more: [https://linktr.ee/imstevenpmwork](https://linktr.ee/imstevenpmwork)
 
-| <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imstevenpmwork&count_private=true&show_icons=true&theme=discord_old_blurple&include_all_commits=true&hide=contribs" /></a> | <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imstevenpmwork&layout=compact&theme=discord_old_blurple&langs_count=6" /></a> |
+| <a href="https://github.com/imstevenpmwork"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imstevenpmwork&count_private=true&show_icons=true&theme=discord_old_blurple&include_all_commits=true&hide=contribs" /></a> |
 | ------------- | ------------- |
 
 ### Pinned Repositories
